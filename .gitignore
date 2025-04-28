@@ -11,6 +11,7 @@ dist/
 !.yarn/versions
 
 # For pyinstaller
-build/
+build/electron
+build/react
 src/scripts/__pycache__/
 REQUIREMENT_PACKAGES_PATH
